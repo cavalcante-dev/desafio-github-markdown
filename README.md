@@ -23,8 +23,6 @@
 - [X] 'Realizar um pull request da atualização do README.md'
 - [X] 'Realizar o commit e o merge da atualização'
 
-<br>
-
 ---
 
 ### 📼 Por: Leandro Cavalcante
